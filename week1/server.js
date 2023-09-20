@@ -25,7 +25,7 @@ app.listen(PORT, () => {
   console.log(`server is listening at localhost:${PORT}`);
 });
 
-/*http.createServer((req, res) => {
+http.createServer((req, res) => {
      fs.readFile("./week1.html", "utf8", (err, data) => {
       if (err) {
         res.writeHead(500, { "Contents-Type": "text/plain" });
@@ -50,4 +50,4 @@ app.listen(PORT, () => {
   })
   .listen(PORT, "0.0.0.0", () => {
     console.log(`Server running at http://localhost:${PORT}/`);
-  });*/
+  });
