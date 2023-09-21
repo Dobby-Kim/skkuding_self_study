@@ -1,0 +1,17 @@
+[
+  {
+    "username": "test",
+    "password": "test",
+    "email": "test@example.com"
+  },
+  {
+    "username": "지선",
+    "password": "11",
+    "email": "kimdobby@g.skku.edu"
+  },
+  {
+    "username": "test1",
+    "password": "test",
+    "email": "e@g.ske"
+  }
+]
